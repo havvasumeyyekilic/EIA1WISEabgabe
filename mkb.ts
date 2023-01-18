@@ -1,4 +1,3 @@
-
 var punkte: number = 0; //Anfang der Punkte wird 0 gesetzt
 var anzahlSaetze: number = 0; //Anfang der Sätze auch auf 0
 var gemischterSpanischerSatz: string[]; //Variable/Array für das shuffeln der Sätze
